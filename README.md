@@ -1,4 +1,4 @@
-Hi. My name is Erfan Alimohammadi. I'm a current data scientist at [@BaladMaps](https://github.com/BaladMaps) and a former software engineer [@Cafebazaar](https://github.com/Cafebazaar). I'm also a computer engineering student at Shahid Beheshti University.
+Hi. My name is Erfan Alimohammadi. I'm a current data scientist at [@BaladMaps](https://github.com/BaladMaps) and a former software engineer at [@Cafebazaar](https://github.com/Cafebazaar). I'm also a computer engineering student at Shahid Beheshti University.
 
 You can contact me through email: erfan.aa@gmail.com
 
