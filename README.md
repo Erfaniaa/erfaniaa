@@ -1,8 +1,8 @@
-Hi. My name is Erfan Alimohammadi. I'm a current data scientist at @BaladMaps and a former software engineer @Cafebazaar. I'm also a computer engineering student at Shahid Beheshti University.
+Hi. My name is Erfan Alimohammadi. I'm a current data scientist at [@BaladMaps](https://github.com/BaladMaps) and a former software engineer [@Cafebazaar](https://github.com/Cafebazaar). I'm also a computer engineering student at Shahid Beheshti University.
 
 You can contact me through email: erfan.aa@gmail.com
 
-## Some of Notable Repositories
+## Some of My Notable Repositories
 
 #### Most Starred
 
@@ -11,7 +11,7 @@ You can contact me through email: erfan.aa@gmail.com
 
 #### Contributions
 
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (I'm one of the maintainers of @TheAlgorithms organization.)
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (I'm one of the maintainers of [@TheAlgorithms](https://github.com/TheAlgorithms) organization.)
 
 #### Machine Learning and Computer Vision
 
