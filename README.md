@@ -19,7 +19,6 @@ You can contact me through email: erfan.aa@gmail.com
 - [erfaniaa/commit-type-detection](https://github.com/Erfaniaa/commit-type-detection)
 - [erfaniaa/fake-job-posting-prediction](https://github.com/Erfaniaa/fake-job-posting-prediction)
 - [erfaniaa/persian-digits-recognition](https://github.com/Erfaniaa/persian-digits-recognition)
-- [erfaniaa/persian-ocr](https://github.com/Erfaniaa/Persian-OCR) (Old Pascal project)
 
 #### Algorithms and Graphs
 
@@ -44,6 +43,13 @@ You can contact me through email: erfan.aa@gmail.com
 - [erfaniaa/ai-course-project](https://github.com/Erfaniaa/ai-course-project)
 - [erfaniaa/xv6-os](https://github.com/Erfaniaa/xv6-os)
 - [erfaniaa/ap-messenger](https://github.com/Erfaniaa/ap-messenger)
+
+#### Old Projects (Done in 2010 or Earlier)
+
+- [erfaniaa/Persian-OCR](https://github.com/Erfaniaa/Persian-OCR)
+- [KhassTeam/Persian-CAPTCHA](https://github.com/KhassTeam/Persian-CAPTCHA)
+- [KhassTeam/image-workshop](https://github.com/KhassTeam/image-workshop)
+- [erfaniaa/pascal-games](https://github.com/erfaniaa/pascal-games)
 
 ## General Stats
 
