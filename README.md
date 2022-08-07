@@ -20,7 +20,7 @@ You can contact me through email: erfan.aa@gmail.com
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (I'm one of the maintainers of [@TheAlgorithms](https://github.com/TheAlgorithms) organization.)
 
-### Quantitative Finance and Algo-trading
+#### Quantitative Finance and Algo-trading
 
 - [erfaniaa/binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot)
 - [erfaniaa/crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester)
