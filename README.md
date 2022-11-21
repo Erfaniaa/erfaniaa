@@ -24,6 +24,7 @@ You can contact me through email: erfan.aa@gmail.com
 
 - [erfaniaa/binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot)
 - [erfaniaa/crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester)
+- [erfaniaa/financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator)
 
 #### Machine Learning and Computer Vision
 
