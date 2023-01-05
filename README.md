@@ -47,7 +47,7 @@ You can contact me through email: erfan.aa@gmail.com
 - [erfaniaa/doggy-sweat-cheatsheet](https://github.com/Erfaniaa/doggy-sweat-cheatsheet)
 - [erfaniaa/starting-domjudge](https://github.com/Erfaniaa/starting-domjudge)
 
-#### Fun
+#### For Fun
 
 - [erfaniaa/tweeterify](https://github.com/Erfaniaa/Tweeterify)
 - [erfaniaa/RPi-Alarm-Clock](https://github.com/Erfaniaa/RPi-Alarm-Clock)
