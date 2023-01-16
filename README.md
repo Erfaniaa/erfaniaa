@@ -20,6 +20,7 @@ You can contact me through email: erfan.aa@gmail.com
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (I'm one of the maintainers of [@TheAlgorithms](https://github.com/TheAlgorithms) organization.)
 - [ITACPC](https://github.com/itacpc) (I am a member of the national Italian programming competitions' scientific and technical committee.)
+- [Awesome Crypto Trading Bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 
 #### Quantitative Finance and Algo-trading
 
