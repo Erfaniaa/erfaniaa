@@ -18,9 +18,10 @@ You can contact me through email: erfan.aa@gmail.com
 
 #### Contributions
 
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (I'm one of the maintainers of [@TheAlgorithms](https://github.com/TheAlgorithms) organization.)
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (I am one of the maintainers of [@TheAlgorithms](https://github.com/TheAlgorithms) organization.)
 - [ITACPC](https://github.com/itacpc) (I am a member of the national Italian programming competitions' scientific and technical committee.)
 - [Awesome Crypto Trading Bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
+- [Strawberry](https://github.com/strawberry-graphql/strawberry) (I am one of the members of [@strawberry-graphql](https://github.com/strawberry-graphql/strawberry) organization.)
 
 #### Quantitative Finance and Algo-trading
 
