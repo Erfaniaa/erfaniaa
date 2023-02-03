@@ -23,13 +23,14 @@ You can contact me through email: erfan.aa@gmail.com
 - [Awesome Crypto Trading Bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 - [Strawberry](https://github.com/strawberry-graphql/strawberry) (I am one of the members of [@strawberry-graphql](https://github.com/strawberry-graphql/strawberry) organization.)
 
-#### Quantitative Finance and Algo-trading
+#### Algo-trading and (Quantitative) Finance
 
 - [erfaniaa/binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot)
 - [erfaniaa/crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester)
 - [erfaniaa/financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator)
 - [erfaniaa/financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation)
 - [erfaniaa/undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder)
+- [erfaniaa/fix-protocol](https://github.com/Erfaniaa/fix-protocol)
 
 #### Machine Learning and Computer Vision
 
