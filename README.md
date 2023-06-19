@@ -74,4 +74,4 @@ You can contact me through email: erfan.aa@gmail.com
 
 ## General Stats
 
-![](https://github-readme-stats.vercel.app/api?username=erfaniaa&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&rank_icon=github&card_width=10)
+![](https://github-readme-stats.vercel.app/api?username=erfaniaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&card_width=10)
