@@ -2,10 +2,11 @@ Hi. My name is Erfan Alimohammadi. I'm a data scientist and a software engineer 
 
 - [56th Rank of ACM-ICPC World Finals](https://icpc.global/ICPCID/0X1FK464JA9X) (Rapid City 2017, sponsored by IBM)
 - [KTH Royal Institute of Technology](https://www.kth.se/en) Research Intern (under supervision of [Prof. Martin Monperrus](https://github.com/monperrus))
+- Current Quantitative Researcher [@Wisdomise](https://wisdomise.io/)
 - 2 years of work experience as a Software Engineer [@Cafebazaar](https://github.com/Cafebazaar)
 - 2 years of work experience as a Data Scientist [@BaladMaps](https://github.com/BaladMaps)
 - Lots of teaching and mentoring experience (as a teaching assistant, coach, and instructor)
-- Current Telecommunication Engineering master's student at the [Polytechnic University of Milan](https://www.polimi.it/en/) and former Bachelor's student in Computer Engineering at [Shahid Beheshti University](http://en.sbu.ac.ir/)
+- Former Bachelor's student in Computer Engineering at [Shahid Beheshti University](http://en.sbu.ac.ir/)
 
 You can contact me through email: erfan.aa@gmail.com
 
@@ -73,4 +74,4 @@ You can contact me through email: erfan.aa@gmail.com
 
 ## General Stats
 
-![](https://github-readme-stats.vercel.app/api?username=erfaniaa&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&card_width=10)
+![](https://github-readme-stats.vercel.app/api?username=erfaniaa&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&rank_icon=github&card_width=10)
