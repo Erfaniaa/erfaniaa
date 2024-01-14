@@ -2,7 +2,7 @@ Hi. My name is Erfan Alimohammadi. I'm a data scientist and a software engineer 
 
 - [56th Rank of ACM-ICPC World Finals](https://icpc.global/ICPCID/0X1FK464JA9X) (Rapid City 2017, sponsored by IBM)
 - [KTH Royal Institute of Technology](https://www.kth.se/en) Research Intern (under supervision of [Prof. Martin Monperrus](https://github.com/monperrus))
-- Current Quantitative Researcher [@Wisdomise](https://wisdomise.io/)
+- Current Senior Data Scientist/Software Engineer [@Wisdomise](https://wisdomise.com/)
 - 2 years of work experience as a Software Engineer [@Cafebazaar](https://github.com/Cafebazaar)
 - 2 years of work experience as a Data Scientist [@BaladMaps](https://github.com/BaladMaps)
 - Lots of teaching and mentoring experience (as a teaching assistant, coach, and instructor)
@@ -32,6 +32,7 @@ You can contact me through email: erfan.aa@gmail.com
 - [erfaniaa/financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator)
 - [erfaniaa/financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation)
 - [erfaniaa/undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder)
+- [erfaniaa/crypto-portfolio-optimizer](https://github.com/Erfaniaa/crypto-portfolio-optimizer)
 - [erfaniaa/fix-protocol](https://github.com/Erfaniaa/fix-protocol)
 
 #### Machine Learning and Computer Vision
