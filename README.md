@@ -32,7 +32,6 @@ You can contact me through email: erfan.aa@gmail.com
 - [erfaniaa/financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator)
 - [erfaniaa/financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation)
 - [erfaniaa/undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder)
-- [erfaniaa/crypto-portfolio-optimizer](https://github.com/Erfaniaa/crypto-portfolio-optimizer)
 - [erfaniaa/fix-protocol](https://github.com/Erfaniaa/fix-protocol)
 
 #### Machine Learning and Computer Vision
