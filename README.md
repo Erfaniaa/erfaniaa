@@ -34,12 +34,13 @@ You can contact me through email: erfanaa[at]gmail[dot]com
 - [erfaniaa/undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder)
 - [erfaniaa/fix-protocol](https://github.com/Erfaniaa/fix-protocol)
 
-#### Machine Learning and Computer Vision
+#### Machine Learning and Computer Vision and NLP
 
 - [erfaniaa/thatcher-effect-dataset-generator](https://github.com/Erfaniaa/thatcher-effect-dataset-generator)
 - [erfaniaa/commit-type-detection](https://github.com/Erfaniaa/commit-type-detection)
 - [erfaniaa/fake-job-posting-prediction](https://github.com/Erfaniaa/fake-job-posting-prediction)
 - [erfaniaa/persian-digits-recognition](https://github.com/Erfaniaa/persian-digits-recognition)
+- [erfaniaa/trump-vs-harris-us-election-prediction](https://github.com/Erfaniaa/trump-vs-harris-us-election-prediction)
 
 #### Algorithms and Graphs
 
