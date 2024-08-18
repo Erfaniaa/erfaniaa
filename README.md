@@ -40,7 +40,7 @@ You can contact me through email: erfanaa[at]gmail[dot]com
 - [erfaniaa/commit-type-detection](https://github.com/Erfaniaa/commit-type-detection)
 - [erfaniaa/fake-job-posting-prediction](https://github.com/Erfaniaa/fake-job-posting-prediction)
 - [erfaniaa/persian-digits-recognition](https://github.com/Erfaniaa/persian-digits-recognition)
-- [erfaniaa/trump-vs-harris-us-election-prediction](https://github.com/Erfaniaa/trump-vs-harris-us-election-prediction)
+- [erfaniaa/trump-vs-harris-on-reddit](https://github.com/Erfaniaa/trump-vs-harris-on-reddit)
 
 #### Algorithms and Graphs
 
