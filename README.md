@@ -38,7 +38,7 @@ You can contact me through email: erfanaa[at]gmail[dot]com
 
 - [erfaniaa/thatcher-effect-dataset-generator](https://github.com/Erfaniaa/thatcher-effect-dataset-generator)
 - [erfaniaa/commit-type-detection](https://github.com/Erfaniaa/commit-type-detection)
-- [erfaniaa/fake-job-posting-prediction](https://github.com/Erfaniaa/fake-job-posting-prediction)
+- [erfaniaa/fake-job-posting-detection](https://github.com/Erfaniaa/fake-job-posting-detection)
 - [erfaniaa/persian-digits-recognition](https://github.com/Erfaniaa/persian-digits-recognition)
 - [erfaniaa/trump-vs-harris-on-reddit](https://github.com/Erfaniaa/trump-vs-harris-on-reddit)
 
