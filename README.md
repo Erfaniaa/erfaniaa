@@ -33,6 +33,7 @@ You can contact me through email: erfanaa[at]gmail[dot]com
 - [erfaniaa/financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator)
 - [erfaniaa/financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation)
 - [erfaniaa/undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder)
+- [erfaniaa/high-frequency-trading-garch](https://github.com/Erfaniaa/high-frequency-trading-garch)
 - [erfaniaa/fix-protocol](https://github.com/Erfaniaa/fix-protocol)
 
 #### Machine Learning and Computer Vision and NLP
