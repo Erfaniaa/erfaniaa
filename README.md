@@ -4,8 +4,8 @@ Hi. My name is Erfan Alimohammadi. I'm a data scientist and a software engineer,
 - [KTH Royal Institute of Technology](https://www.kth.se/en) Research Intern (under supervision of [Prof. Martin Monperrus](https://github.com/monperrus))
 - Current Finance Data Lead at an undisclosed company
 - Former Senior Data Scientist at [Wisdomise](https://wisdomise.com/)
-- 2 years of work experience as a Software Engineer [@Cafebazaar](https://github.com/Cafebazaar)
-- 2 years of work experience as a Data Scientist [@BaladMaps](https://github.com/BaladMaps)
+- 2 years of work experience as a Software Engineer at [Cafe Bazaar](https://github.com/Cafebazaar)
+- 2 years of work experience as a Data Scientist at [Balad Maps](https://github.com/BaladMaps)
 - Lots of teaching and mentoring experience (as a teaching assistant, coach, and instructor)
 - Former Bachelor's student in Computer Engineering at [Shahid Beheshti University](http://en.sbu.ac.ir/)
 
