@@ -1,13 +1,14 @@
-Hi. My name is Erfan Alimohammadi. I'm a data scientist and a software engineer and these are some highlights from my CV:
+Hi. My name is Erfan Alimohammadi. I'm a data scientist and a software engineer, and these are some highlights from my CV:
 
 - [56th Rank of ACM-ICPC World Finals](https://icpc.global/ICPCID/0X1FK464JA9X) (Rapid City 2017, sponsored by IBM)
 - [KTH Royal Institute of Technology](https://www.kth.se/en) Research Intern (under supervision of [Prof. Martin Monperrus](https://github.com/monperrus))
+- Current Finance Data Lead at an undisclosed company
 - 2 years of work experience as a Software Engineer [@Cafebazaar](https://github.com/Cafebazaar)
 - 2 years of work experience as a Data Scientist [@BaladMaps](https://github.com/BaladMaps)
 - Lots of teaching and mentoring experience (as a teaching assistant, coach, and instructor)
 - Former Bachelor's student in Computer Engineering at [Shahid Beheshti University](http://en.sbu.ac.ir/)
 
-You can contact me through email: erfan.aa@gmail.com
+You can contact me through email: erfan[dot]aa[at]gmail[dot]com
 
 ## Some of My Notable Repositories
 
@@ -19,11 +20,20 @@ You can contact me through email: erfan.aa@gmail.com
 #### Contributions
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (I'm one of the maintainers of [@TheAlgorithms](https://github.com/TheAlgorithms) organization.)
+- [ITACPC](https://itacpc.it/) (I am a member of the national Italian programming competitions' scientific and technical committee.)
+- [Awesome Crypto Trading Bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
+- [Strawberry](https://github.com/strawberry-graphql/strawberry) (I am one of the members of [@strawberry-graphql](https://github.com/strawberry-graphql/strawberry) organization.)
 
 ### Quantitative Finance and Algo-trading
 
-- [erfaniaa/binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot)
-- [erfaniaa/crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester)
+- [erfaniaa/binance-futures-trading-bot](https://github.com/erfaniaa/binance-futures-trading-bot)
+- [erfaniaa/binance-spot-trading-bot](https://github.com/erfaniaa/binance-spot-trading-bot)
+- [erfaniaa/crypto-trading-strategy-backtester](https://github.com/erfaniaa/crypto-trading-strategy-backtester)
+- [erfaniaa/financial-dataset-generator](https://github.com/erfaniaa/financial-dataset-generator)
+- [erfaniaa/financial-indexes-correlation](https://github.com/erfaniaa/financial-indexes-correlation)
+- [erfaniaa/undervalued-crypto-finder](https://github.com/erfaniaa/undervalued-crypto-finder)
+- [erfaniaa/high-frequency-trading-garch](https://github.com/erfaniaa/high-frequency-trading-garch)
+- [erfaniaa/fix-protocol](https://github.com/erfaniaa/fix-protocol)
 
 #### Machine Learning and Computer Vision
 
@@ -31,6 +41,7 @@ You can contact me through email: erfan.aa@gmail.com
 - [erfaniaa/commit-type-detection](https://github.com/Erfaniaa/commit-type-detection)
 - [erfaniaa/fake-job-posting-prediction](https://github.com/Erfaniaa/fake-job-posting-prediction)
 - [erfaniaa/persian-digits-recognition](https://github.com/Erfaniaa/persian-digits-recognition)
+- [erfaniaa/trump-vs-harris-on-reddit](https://github.com/erfaniaa/trump-vs-harris-on-reddit)
 
 #### Algorithms and Graphs
 
