@@ -81,7 +81,6 @@ You can contact me through email: erfan[dot]aa[at]gmail[dot]com
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=erfaniaa&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&card_width=10)
-
 ![](https://greptile-stats.vercel.app/api/widget/Erfaniaa/contributions)
-
 ![](https://greptile-stats.vercel.app/api/widget/Erfaniaa/highlights)
+![](https://greptile-stats.vercel.app/api/widget/Erfaniaa/archtype)
