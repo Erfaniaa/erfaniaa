@@ -27,7 +27,7 @@ You can contact me through email: erfan[dot]aa[at]gmail[dot]com
 - [Awesome Crypto Trading Bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 - [Strawberry](https://github.com/strawberry-graphql/strawberry) (I am one of the members of [@strawberry-graphql](https://github.com/strawberry-graphql/strawberry) organization.)
 
-### Quantitative Finance and Algo-trading
+#### Quantitative Finance and Algo-trading
 
 - [erfaniaa/binance-futures-trading-bot](https://github.com/erfaniaa/binance-futures-trading-bot)
 - [erfaniaa/binance-spot-trading-bot](https://github.com/erfaniaa/binance-spot-trading-bot)
