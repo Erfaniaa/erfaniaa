@@ -1,12 +1,8 @@
-Hi. My name is Erfan Alimohammadi. I'm a data scientist and a software engineer, and these are some highlights from my CV:
+Hi. My name is Erfan Alimohammadi and these are some highlights from my CV:
 
 - [56th Rank of ACM-ICPC World Finals](https://icpc.global/ICPCID/0X1FK464JA9X) (Rapid City 2017, sponsored by IBM)
 - [KTH Royal Institute of Technology](https://www.kth.se/en) Research Intern (under supervision of [Prof. Martin Monperrus](https://github.com/monperrus))
-- Current Quantitative Developer at [Overlay Protocol](https://overlay.market)
-- Former Finance Data Lead at [Wallex](https://wallex.ir/)
-- Former Senior Data Scientist at [Wisdomise](https://wisdomise.com/)
-- 2 years of work experience as a Software Engineer at [Cafe Bazaar](https://github.com/Cafebazaar)
-- 2 years of work experience as a Data Scientist at [Balad Maps](https://github.com/BaladMaps)
+- More than 10 years of professional experience (as a software engineer, data scientist, technical team lead, and quantitative developer/researcher)
 - Lots of teaching and mentoring experience (as a teaching assistant, coach, and instructor)
 - Former Bachelor's student in Computer Engineering at [Shahid Beheshti University](http://en.sbu.ac.ir/)
 - Current Master's student in Applied Data Science and Analytics at [Technological University Dublin](https://tudublin.ie/)
