@@ -73,7 +73,3 @@ You can contact me through email: erfan[dot]aa[at]gmail[dot]com
 - [KhassTeam/Persian-CAPTCHA](https://github.com/KhassTeam/Persian-CAPTCHA)
 - [KhassTeam/image-workshop](https://github.com/KhassTeam/image-workshop)
 - [erfaniaa/pascal-games](https://github.com/erfaniaa/pascal-games)
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=erfaniaa&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&card_width=10)
